@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo " mithus first night4g[gcyccg46ygcfnyezmtrtnhfkjtl,ky.,!";
+echo "[gcyccg46ygcfnyezmtrtnhfkjtl,ky.,!";
 ?>
 
 </body>
