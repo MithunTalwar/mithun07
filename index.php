@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "[gcyccg46ygcfnyeJHVFMJHF,UJVzmtrtnloihloiuboibhfkjtl,ky.,!";
+echo "test....one";
 ?>
 
 </body>
