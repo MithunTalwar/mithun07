@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "test-one";
+echo "TEST---ONE";
 ?>
 
 </body>
